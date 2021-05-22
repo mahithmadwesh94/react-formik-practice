@@ -1,3 +1,3 @@
 # react-formik-practice
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-formik-practice)
+[View StackBlitz App ⚡️](https://react-formik-practice.stackblitz.io/)
